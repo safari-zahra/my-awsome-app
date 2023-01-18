@@ -1,0 +1,46 @@
+body{
+  font-family: 'Times New Roman', Times, serif;
+  background-color: rgb(228, 244, 244);
+}
+
+.sec{
+  padding: 50px 0;
+}
+.line{
+  border-bottom: 1px solid rgb(189, 188, 188);
+}
+.city-title{
+  font-size: 48px;
+}
+
+.summery-degree{
+  font-size: 120px;
+  font-weight: 900;
+}
+.flex-33{
+  width: 33.33333333%;
+}
+.number{
+  color: rgb(34, 33, 33);
+}
+.text{
+  color: rgb(138, 138, 138);
+}
+.card{
+  width: 140px;
+  min-width: 140px;
+  border-radius: 5px;
+}
+
+.card-img-top{
+  width: 60px;
+  height: 60px;
+}
+
+.weather-app {
+  border: 1px solid #8eb8ee;
+  padding: 15px;
+  margin: 20px auto;
+  border-radius: 10px;
+  max-width: 600px;
+}
