@@ -44,3 +44,25 @@ body{
   border-radius: 10px;
   max-width: 600px;
 }
+
+
+.weather-forecast {
+  margin-top: 20px;
+  text-align: center;
+  color: #000;
+  display: flex;
+  flex-direction: row;
+}
+
+.weather-forecast-date {
+  font-size: 16px;
+  opacity: 0.5;
+}
+
+.weather-forecast-temperature-min {
+  opacity: 0.5;
+}
+
+.weather-forecast-temperatures {
+  font-size: 13px;
+}
